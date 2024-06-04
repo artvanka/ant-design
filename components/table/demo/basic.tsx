@@ -65,7 +65,7 @@ const data: DataType[] = [
     name: 'John Brown',
     age: 32,
     address: 'New York No. 1 Lake Park',
-    tags: ['nice', 'developer'],
+    tags: ['nice', 'developer', 'devel', 'dev'],
   },
   {
     key: '2',
